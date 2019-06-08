@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2> Application Developer at Drivezy <span>October,2018 - present</span></h2>
-                        <p>Few months ago, I joined Drivezy as Application Developer, my major part of the work into the field of front-end, here I am part of team who made a Prgressive Web App for Drivezy, I also works for Drivezy's internal product Admin Panel for CRM, here I get hands on experience with handling bugs, added few new features and modules to their Admin Panel and Website.</p>
+                        <p>Few months ago, I joined Drivezy as Application Developer, my major part of the work into the field of front-end, here I am part of a team who made a Prgressive Web App for Drivezy, I also works for Drivezy's internal product Admin Panel for CRM, here I get hands on experience with handling bugs, added few new features and modules to their Admin Panel and Website.</p>
                       </div>
                     </div>
                   </article>
