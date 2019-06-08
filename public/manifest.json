@@ -1,6 +1,7 @@
 {
   "short_name": "Portfolio app",
   "name": "Portfolio app made with react as part of 'weekend projects' initiative",
+  "homepage": "https://umangmaurya.github.io/portfolio-app",
   "icons": [
     {
       "src": "favicon.ico",

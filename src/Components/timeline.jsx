@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2> Application Developer at Drivezy <span>October,2018 - present</span></h2>
-                        <p>Few months ago, I joined Drivezy as Application Developer, my major part of the work into the field of front-end, adding new modules to thier Admin Panel and Website and handling bugs, recently Drivezy launched in USA in which I have created their Admin Panel for USA independentally.  </p>
+                        <p>Few months ago, I joined Drivezy as Application Developer, my major part of the work into the field of front-end, here I am part of team who made a Prgressive Web App for Drivezy, I also works for Drivezy's internal product Admin Panel for CRM, here I get hands on experience with handling bugs, added few new features and modules to their Admin Panel and Website.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Post graduation at Institute of Professional Studies, University of Allahabad <span>2015-2018</span></h2>
-                        <p> </p>
+                        <h2>Post graduation at <a href="https://www.allduniv-ips.in/" rel="noopener noreferrer" target="_blank"> Institute of Professional Studies, University of Allahabad</a> <span>2015-2018</span></h2>
+                        <p> I have completed my Master's in Computer Application, during the curriculum I have studied core subjects of computer science like Operating Systems, Computer Networks, Data Structure and Algorithms and many more but please be informed most of the concepts I forgot.</p>
                       </div>
                     </div>
                   </article>
@@ -55,7 +55,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Undergraduation at Iswar Saran Degree College, University of Allahabad <span>2012-2015</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <p>I have done B.Sc with Physics, Maths and Computer Application, while Computer Application was just optional subject but at that time I learned C language and got taste of programming that time I decided to pursue my career as Developer, but not have school background in Computer science, thats why I go for Master's in Computer Application to get a good understanding of Computer Science. </p>
                       </div>
                     </div>
                   </article>

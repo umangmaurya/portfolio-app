@@ -13,8 +13,8 @@ export default class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About Us</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p>I am currently working as an Application Developer at <a href="https://drivezy.com" target="_blank" rel="noopener noreferrer">Drivezy</a>. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years </p>
-                                            <p>I have completed my post graduation (MCA) in 2018 and undergraduation (B.Sc) in 2015 from <a href="http://allduniv.ac.in/" target="_blank" rel="noopener noreferrer">University of Allahabad</a>. </p>
+                                            <span>I am currently working as an Application Developer at <a href="https://drivezy.com" target="_blank" rel="noopener noreferrer">Drivezy</a>. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years, I love to watch science shows like Wonders of the Universe, Through the Wormhole, Planet Earth etc. </span>
+                                            <span>I have completed my post graduation (MCA) in 2018 and undergraduation (B.Sc) in 2015 from <a href="http://allduniv.ac.in/" target="_blank" rel="noopener noreferrer">University of Allahabad</a>. </span>
                                         </div>
                                     </div>
                                 </div>
@@ -53,17 +53,17 @@ export default class About extends Component {
                                     </div>
                                 </div>
                             </div>
-                            {/* <div className="col-md-4 text-center animate-box">
+                            <div className="col-md-4 text-center animate-box">
                                 <div className="services color-5">
                                     <span className="icon">
                                         <i className="icon-data" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Dev Ops</h3>
-                                        <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                                        <h3>MERN Stack Development</h3>
+                                        <p>I am learning Node Js, Mongo DB, with framework Express Js, trying to build a social network website </p>
                                     </div>
                                 </div>
-                            </div> */}
+                            </div>
                             {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">

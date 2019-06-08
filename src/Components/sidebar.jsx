@@ -23,16 +23,21 @@ export default class Sidebar extends Component {
                 </ul>
               </div>
             </nav>
+
+
             <nav id="colorlib-main-menu">
               <ul>
                 {/* <li><a href="https://www.facebook.com/umangbear" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://twitter.com/ddbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/umangmaurya/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li> */}
+                <li><a href="https://twitter.com/umangmaurya30" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://www.instagram.com/umangmaurya/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li> 
+                <li><a href="https://medium.com/@umangmaurya" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
+
+                */}
                 <li><a href="https://www.linkedin.com/in/umang-ethan-bourne/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/umangmaurya" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@umangmaurya" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
+
             <div className="colorlib-footer">
               <p><small>
                 Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
@@ -44,7 +49,7 @@ export default class Sidebar extends Component {
             </div>
           </aside>
         </div>
-      </div>
+      </div >
     )
   }
 }
