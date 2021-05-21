@@ -15,14 +15,31 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+        <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2> Frontend Developer at Shopkhata (Freelance-Part-time) <span>June,2020 - May,2021</span></h2>
+                        <p>ShopKhata App development with React Native, Progressive web app for ShopKhata with Next Js framework</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> Application Developer at Drivezy <span>October,2018 - present</span></h2>
-                        <p>Few months ago, I joined Drivezy as Application Developer, my major part of the work into the field of front-end, here I am part of a team who made a Prgressive Web App for Drivezy, I also works for Drivezy's internal product Admin Panel for CRM, here I get hands on experience with handling bugs, added few new features and modules to their Admin Panel and Website.</p>
+                        <h2> Application Developer at Drivezy <span>October,2018 - January,2021</span></h2>
+                        <p>This was the start of my career as a developer I joined Drivezy as Application Developer, 
+                          Frontend development for Drivezy's Admin Panel, Website, and Progressive web app;
+Hands-on experience in debugging;
+Individual contribution: Intercity booking flow in drivezy.com, along with Checkout Scene and Profile Scene in Website and PWA;
+Google Map integration with the location search feature;
+Drivezy's PWA integration with PhonePe switch and with Paytm mini-apps for SSO login and Payment
+Technologies learned: Javascript, Html, CSS-SASS, ReactJs: Hooks, Portals, Context, Redux, Node Js;</p>
                       </div>
                     </div>
                   </article>
